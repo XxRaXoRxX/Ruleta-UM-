@@ -1,4 +1,3 @@
-from lib2to3.pgen2 import token
 from random import seed, randint, randrange
 import constants as cs
 
