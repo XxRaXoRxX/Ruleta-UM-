@@ -1,4 +1,4 @@
-#Alumno Fichas# -No borrar-
+#Alumno Fichas#
 Miglierina 5
 Moya 5
 Mayoral 5
